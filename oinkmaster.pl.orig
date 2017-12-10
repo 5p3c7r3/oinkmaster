@@ -2,7 +2,7 @@
 
 # $Id: oinkmaster.pl,v 1.406 2006/02/10 13:02:44 andreas_o Exp $ #
 
-# Copyright (c) 2001-2006 Andreas Östling <andreaso@it.su.se>
+# Copyright (c) 2001-2006 Andreas Ã–stling <andreaso@it.su.se>
 # All rights reserved.
 #
 #  Redistribution and use in source and binary forms, with or
@@ -83,7 +83,7 @@ sub clean_exit($);
 
 
 my $VERSION            = 'Oinkmaster v2.0, Copyright (C) 2001-2006 '.
-                         'Andreas Östling <andreaso@it.su.se>';
+                         'Andreas Ã–stling <andreaso@it.su.se>';
 my $OUTFILE            = 'snortrules.tar.gz';
 my $RULES_DIR          = 'rules';
 
